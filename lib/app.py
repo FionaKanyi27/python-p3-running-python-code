@@ -1,3 +1,3 @@
 print("Hello World!", end=" ")
 print("Hello sun!", end="!! ")
-print("Hello sky!", )
+print("Hello sky!", end="!!!\n")
